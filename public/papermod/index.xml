@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMods on ClothingHub</title>
+    <link>http://localhost:1313/papermod/</link>
+    <description>Recent content in PaperMods on ClothingHub</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide For L2</title>
+      <link>http://localhost:1313/papermod/content/posts/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papermod/content/posts/markdown-syntax.fr/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide For RTL</title>
+      <link>http://localhost:1313/papermod/content/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papermod/content/posts/markdown-syntax.fa/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/papermod/content/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papermod/content/posts/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Code Syntax Guide</title>
+      <link>http://localhost:1313/papermod/content/posts/code_syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papermod/content/posts/code_syntax/</guid>
+      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>http://localhost:1313/papermod/content/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papermod/content/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/papermod/content/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papermod/content/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/papermod/content/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papermod/content/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/papermod/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papermod/readme/</guid>
+      <description>&lt;h1 id=&#34;hugo-papermod-example&#34;&gt;hugo-paperMod Example&lt;/h1&gt;
+&lt;p&gt;This repository offers an example site for &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;hugo-PaperMod&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+&lt;p&gt;Read Wiki =&amp;gt; &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod/wiki/Installation&#34;&gt;hugo-PaperMod - Installation&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;directory-tree&#34;&gt;Directory Tree&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;.(site root)
+├── configTaxo.yml
+├── config.yml
+├── content
+│   ├── archives.fr.md
+│   ├── archives.md
+│   ├── posts
+│   │   ├── emoji-support.md
+│   │   ├── markdown-syntax.fa.md
+│   │   ├── markdown-syntax.fr.md
+│   │   ├── markdown-syntax.md
+│   │   ├── math-typesetting.md
+│   │   ├── papermod
+│   │   │   ├── _index.md
+│   │   │   ├── papermod-faq.md
+│   │   │   ├── papermod-features
+│   │   │   │   ├── images
+│   │   │   │   │   ├── homeinfo.jpg
+│   │   │   │   │   ├── profile.jpg
+│   │   │   │   │   └── regular.jpg
+│   │   │   │   └── index.md
+│   │   │   ├── papermod-icons.md
+│   │   │   ├── papermod-installation.md
+│   │   │   └── papermod-variables.md
+│   │   ├── placeholder-text.md
+│   │   └── rich-content.md
+│   ├── search.fr.md
+│   ├── search.md
+│   └── tags
+├── LICENSE
+├── README.md
+├── resources
+│   └── _gen
+│       ├── assets
+│       └── images
+├── static
+│   ├── android-chrome-192x192.png
+│   ├── android-chrome-512x512.png
+│   ├── apple-touch-icon.png
+│   ├── favicon-16x16.png
+│   ├── favicon-32x32.png
+│   ├── favicon.ico
+│   └── papermod-cover.png
+└── themes
+    └── hugo-PaperMod
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>

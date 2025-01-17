@@ -2,45 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ClothingHub</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on ClothingHub</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ClothingHub</title>
-      <link>http://localhost:1313/papermod/content/posts/papermod/papermod-installation/</link>
+      <link>//localhost:1313/papermod/content/posts/papermod/papermod-installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papermod/content/posts/papermod/papermod-installation/</guid>
+      <guid>//localhost:1313/papermod/content/posts/papermod/papermod-installation/</guid>
       <description>ClothingHub view references of outfits that suits you. Click &amp;ndash;&amp;gt; About Us.</description>
     </item>
     <item>
       <title>Hoodies</title>
-      <link>http://localhost:1313/papermod/content/posts/hoodies/</link>
+      <link>//localhost:1313/papermod/content/posts/hoodies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papermod/content/posts/hoodies/</guid>
+      <guid>//localhost:1313/papermod/content/posts/hoodies/</guid>
       <description>Find what you think is good for you.</description>
     </item>
     <item>
       <title>T-shirts</title>
-      <link>http://localhost:1313/papermod/content/posts/t-shirts/</link>
+      <link>//localhost:1313/papermod/content/posts/t-shirts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papermod/content/posts/t-shirts/</guid>
+      <guid>//localhost:1313/papermod/content/posts/t-shirts/</guid>
       <description>Find what you think is good for you.</description>
     </item>
     <item>
-      <title>Shorts</title>
-      <link>http://localhost:1313/papermod/content/posts/shorts/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papermod/content/posts/shorts/</guid>
-      <description>Find what you think is good for you</description>
-    </item>
-    <item>
       <title></title>
-      <link>http://localhost:1313/papermod/readme/</link>
+      <link>//localhost:1313/papermod/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papermod/readme/</guid>
+      <guid>//localhost:1313/papermod/readme/</guid>
       <description>&lt;h1 id=&#34;hugo-papermod-example&#34;&gt;hugo-paperMod Example&lt;/h1&gt;
 &lt;p&gt;This repository offers an example site for &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;hugo-PaperMod&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
@@ -92,6 +85,13 @@
 └── themes
     └── hugo-PaperMod
 &lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>Shorts</title>
+      <link>//localhost:1313/papermod/content/posts/shorts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/papermod/content/posts/shorts/</guid>
+      <description>Find what you think is good for you.</description>
     </item>
   </channel>
 </rss>
